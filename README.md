@@ -1,6 +1,3 @@
-# 工程简介
+# SpringSecurity + Jwt 权限控制 demo
 
-
-
-# 延伸阅读
 
